@@ -1,0 +1,25 @@
+{
+  "name": "apirest.men",
+  "version": "1.0.0",
+  "description": "Tarea de la clase Desarrollo de Aplicaciones de Vanguardia: API REST para una tienda de música.",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/imaxmunguia/APIRest.MEN.git"
+  },
+  "author": "Munguia, I.",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/imaxmunguia/APIRest.MEN/issues"
+  },
+  "homepage": "https://github.com/imaxmunguia/APIRest.MEN#readme",
+  "devDependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.4",
+    "method-override": "^3.0.0",
+    "mongoose": "^5.3.10"
+  }
+}
